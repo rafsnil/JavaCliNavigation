@@ -1,0 +1,5 @@
+To use the navigation system in JAVA based CLI, you have to use Console UI 
+Although this was a hassale as this is Java project(Maven dependencies issue)
+Half of the hassles will disappear if you use SpringBoot.
+
+package it to a jar and run the shit
